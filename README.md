@@ -23,4 +23,16 @@
 |  |
 | ------- |
 | [3843-first-element-with-unique-frequency](https://github.com/kunalpara40/Data_Structure/tree/master/3843-first-element-with-unique-frequency) |
+## Tree
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kunalpara40/Data_Structure/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kunalpara40/Data_Structure/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kunalpara40/Data_Structure/tree/master/0559-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
